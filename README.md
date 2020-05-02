@@ -38,7 +38,7 @@ Front-End Collage Project
                 {"image": "/img/elements_2.jpg", "link": "url_2"}
             ]
         }
-3. To append svg tag and draw rect and label inside it
+3. To append svg tag and draw react and label inside it
 4. To draw line with initial data.
         *change json file configuration a little. Add one field "router"
     
